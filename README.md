@@ -1,2 +1,2 @@
  "# AstraTerm-AI" >> README.md
- "Official fork and maintained version of AstraTerm AI by Triston Faile. Original: xAI-Crew/AstraTerm-AI."
+ "Official fork and maintained version of AstraTerm AI by Triston Faile. Original: rawdripcollective-codec/AstraTerm-AI."
