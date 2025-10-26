@@ -1,3 +1,6 @@
+# AstraTerm AI 🚀
+
+
 A modded terminal app inspired by Termux and Andronix, enhanced with AI assistants, Linux distro support, OSINT tools, and security frameworks like Metasploit and Nmap. Built for developers, pentesters, and power users—cross-platform (Android, Linux, Desktop, Web).
 
 This is the official maintained version by **rawdripcollective-codec**. Forked and expanded from conceptual blueprints.
