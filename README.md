@@ -1,1 +1,1 @@
-git commit -m "Add screenshots to README
+Maintained by rawdripcollective-codec. Original concept inspired by collaborative builds. ⭐ Star the repo to show support!
