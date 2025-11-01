@@ -1,0 +1,16 @@
+# Include documentation
+include README.md
+include LICENSE
+include INSTALL.md
+include requirements.txt
+
+# Include configuration templates
+include config.json
+
+# Include package data
+recursive-include astraterm *.py
+
+# Exclude unnecessary files
+global-exclude __pycache__
+global-exclude *.py[co]
+global-exclude .DS_Store
